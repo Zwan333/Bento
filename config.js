@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Rei',
+	name: 'Deimos',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
